@@ -53,7 +53,7 @@ sudo apt-get install powerline python3-powerline
 ```bash
 # configure powerline
 sed -i '1i term screen-256color' ~/.screenrc
-git clone https://github.com/adidenko/powerline ~/.config/powerline
+git clone https://github.com/aolwas/powerline ~/.config/powerline
 
 # enable in vim
 echo "set laststatus=2" >> ~/.vimrc
